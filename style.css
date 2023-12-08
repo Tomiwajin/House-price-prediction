@@ -1,0 +1,23 @@
+@charset "UTF-8";
+body form input {
+    background-color: #E6191D;
+}
+body form input {
+}
+body form input {
+}
+body form input {
+    background-color: #CA171A;
+}
+body form input {
+    background-image: -webkit-linear-gradient(270deg,rgba(136,138,255,1.00) 0.41%,rgba(4,4,110,1.00) 0.41%,rgba(230,230,238,1.00) 0.41%,rgba(231,220,220,1.00) 100%,rgba(0,111,255,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(136,138,255,1.00) 0.41%,rgba(4,4,110,1.00) 0.41%,rgba(230,230,238,1.00) 0.41%,rgba(231,220,220,1.00) 100%,rgba(0,111,255,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(136,138,255,1.00) 0.41%,rgba(4,4,110,1.00) 0.41%,rgba(230,230,238,1.00) 0.41%,rgba(231,220,220,1.00) 100%,rgba(0,111,255,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(136,138,255,1.00) 0.41%,rgba(4,4,110,1.00) 0.41%,rgba(230,230,238,1.00) 0.41%,rgba(231,220,220,1.00) 100%,rgba(0,111,255,1.00) 100%);
+}
+.container-fluid {
+    background-image: -webkit-linear-gradient(270deg,rgba(232,136,255,1.00) 0.41%,rgba(200,7,190,0.78) 0.41%,rgba(230,230,238,1.00) 9.88%,rgba(227,236,229,1.00) 24.46%,rgba(227,224,230,1.00) 73.72%,rgba(226,220,231,1.00) 90.14%,rgba(255,58,227,0.81) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(232,136,255,1.00) 0.41%,rgba(200,7,190,0.78) 0.41%,rgba(230,230,238,1.00) 9.88%,rgba(227,236,229,1.00) 24.46%,rgba(227,224,230,1.00) 73.72%,rgba(226,220,231,1.00) 90.14%,rgba(255,58,227,0.81) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(232,136,255,1.00) 0.41%,rgba(200,7,190,0.78) 0.41%,rgba(230,230,238,1.00) 9.88%,rgba(227,236,229,1.00) 24.46%,rgba(227,224,230,1.00) 73.72%,rgba(226,220,231,1.00) 90.14%,rgba(255,58,227,0.81) 100%);
+    background-image: linear-gradient(180deg,rgba(232,136,255,1.00) 0.41%,rgba(200,7,190,0.78) 0.41%,rgba(230,230,238,1.00) 9.88%,rgba(227,236,229,1.00) 24.46%,rgba(227,224,230,1.00) 73.72%,rgba(226,220,231,1.00) 90.14%,rgba(255,58,227,0.81) 100%);
+}
