@@ -20,7 +20,7 @@ def predict():
     features.append(ocean_proximity_numeric)
     features_scaled = scaler.transform([features])
     result = int(XGBModel.predict(features_scaled)[0])
-    return render_template("index.html", pred_result=result)
+    return render_template("index.html", predicted_text=result)
 
 if __name__ == "__main__":
     flask_app.run(debug=True)
